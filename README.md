@@ -1,16 +1,22 @@
-## Hi there 👋
+# Yahya Hassan
 
-<!--
-**workuet28-art/workuet28-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Engineering student interested in web development
+and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python, Java |
+| Tools | Git, GitHub, VS Code |
+
+## Education
+
+BS Software Engineering
+
+## Contact
+
+- Email: workuet28@gmail.com
+- GitHub: [@workuet28-art](https://github.com/workuet28-art )
